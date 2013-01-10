@@ -1,0 +1,8 @@
+{
+	"name": "hybridlogic/classifier",
+	"description": "Naive Bayesian Classification library for PHP",
+	"keywords": ["bayes", "classifier", "groups", "statistics", "tokenizer"],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}
